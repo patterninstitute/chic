@@ -1,0 +1,25 @@
+template:
+  bslib:
+    primary: "#2a6773"
+    base_font:
+      google:
+        family: "Nunito"
+        wght: [200, 300, 400, 600, 700, 800]
+        ital: [0, 1]
+    code_font: {google: "Inconsolata"}
+    heading_font: {google: "Source Sans Pro"}
+    font_scale: 1.0
+    fg: "#172431"
+    bg: "#fcfcfc"
+    pkgdown-nav-height: 76px
+
+navbar:
+  type: light
+  bg: none
+
+footer:
+  structure:
+    left: developed_by
+    right: pkgdown
+  components:
+    pkgdown: ""

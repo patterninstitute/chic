@@ -8,7 +8,7 @@ template:
         ital: [0, 1]
     code_font: {google: "Inconsolata"}
     heading_font: {google: "Source Sans Pro"}
-    font_scale: 1.0
+    font_scale: 1.1
     fg: "#172431"
     bg: "#fcfcfc"
     pkgdown-nav-height: 76px
